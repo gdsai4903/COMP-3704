@@ -3,11 +3,11 @@ Welcome to the repository for COMP-3704: Neural Networks and Deep Learning! This
 
 ## 🛠️ How to Contribute
 1. **Clone the repository**:  
-   `git clone https://github.com/YOUR_USERNAME/COMP-3704`
+   `git clone https://github.com/gdsai4903/COMP-3704`
 2. **Create a new branch** for your work:  
-   `git checkout -b <branch_name>`
+   `git checkout -b main`
 3. **Push your changes**:  
-   `git push origin <branch_name>`
+   `git push origin main`
 4. Submit a **pull request**: Once you are ready to merge your changes, submit a pull request and tag relevant reviewers for feedback.
 
 ## 🎯 Repository Purpose
