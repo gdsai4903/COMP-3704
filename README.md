@@ -1,6 +1,3 @@
-Hello world
-=======
-
 # How to Fork and Push Commits to a Repository
 
 This guide provides step-by-step instructions to fork a repository, make changes, and push commits to your fork on GitHub.
